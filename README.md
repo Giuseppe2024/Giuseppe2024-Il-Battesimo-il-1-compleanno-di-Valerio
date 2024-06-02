@@ -51,20 +51,20 @@
     <section class="tableau">
         <h2>Tableau</h2>
         <div class="table">
-            <h3>Tavolo 1: [Nome del Cavallo]</h3>
-            <p>[Storia del cartone]</p>
+            <h3>Tavolo 1: Nome del Cavallo</h3>
+            <p>Storia del cartone</p>
         </div>
         <div class="table">
-            <h3>Tavolo 2: [Nome del Cavallo]</h3>
-            <p>[Storia del cartone]</p>
+            <h3>Tavolo 2: Nome del Cavallo</h3>
+            <p>Storia del cartone</p>
         </div>
         <!-- Aggiungi altre tabelle qui -->
     </section>
 
     <section class="directions">
         <h2>Indicazioni</h2>
-        <p><strong>Chiesa:</strong> [Indirizzo della Chiesa]</p>
-        <p><strong>Ricevimento:</strong> [Indirizzo del Ricevimento]</p>
+        <p><strong>Chiesa:</strong> Indirizzo della Chiesa</p>
+        <p><strong>Ricevimento:</strong> Indirizzo del Ricevimento</p>
     </section>
 </div>
 
