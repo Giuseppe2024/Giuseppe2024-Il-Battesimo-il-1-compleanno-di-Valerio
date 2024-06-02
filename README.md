@@ -44,7 +44,7 @@
 <body>
 
 <header>
-    <h1>Battesimo di [Nome del Bambino]</h1>
+    <h1>Battesimo di Valerio</h1>
 </header>
 
 <div class="container">
